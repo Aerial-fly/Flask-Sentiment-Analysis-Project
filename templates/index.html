@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analisis Sentimen</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Analisis Sentimen Teks</h1>
+        <p>Masukkan sebuah kalimat untuk menganalisis sentimennya.</p>
+        <textarea id="text-input" rows="4" placeholder="Contoh: produk ini bagus sekali..."></textarea>
+        <button id="predict-btn">Analisis Sekarang</button>
+        <div id="result-container">
+            </div>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
