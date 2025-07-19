@@ -24,7 +24,7 @@ This project was created as a portfolio for registration at Cloud Next Extended 
 6. Open a browser and access `http://127.0.0.1:5000`
 
 ```bash
-proyek-analisis-sentimen/
+Sentiment-Analysis-Project/
 │
 ├── static/
 │   ├── style.css         
