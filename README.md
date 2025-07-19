@@ -2,7 +2,7 @@
 
 This is a full-stack web application project for sentiment analysis of Indonesian text. The application was built from scratch, from training its own machine learning model to creating a backend API and interactive frontend.
 
-This project was created as a portfolio for registration at Cloud Next Extended Bandung 2025.
+![Image](https://github.com/user-attachments/assets/a657ac7c-a001-43ec-b982-2cbd63e3e358)
 
 ## Features
 * Backend API: Built with Flask, providing an endpoint for predictions.
